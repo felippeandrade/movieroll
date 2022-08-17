@@ -2,6 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb797766054608123</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.251838199445-rj5n6se5c02f072rq4cplk95ubfaibp7</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>797766054608123</string>
+	<key>FacebookClientToken</key>
+	<string>2b21cfe8b8e50fb6081a0d64454427d3</string>
+	<key>FacebookDisplayName</key>
+	<string>MovieRoll</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AmsiPro-Bold.otf</string>
+		<string>AmsiPro-Light.otf</string>
+		<string>AmsiPro-Regular.otf</string>
+		<string>AmsiPro-SemiBold.otf</string>
+		<string>AmsiPro-XLight.otf</string>
+	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -21,5 +52,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
 </dict>
 </plist>
