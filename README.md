@@ -50,7 +50,6 @@ UIButton, UILabel, UICollectionView e UITableView).
 - [x] O app deve possuir as seguintes features:
     - [x] Tela de carregamento;
     - [x] Tela de login (Facebook e Google são obrigatórios);
-    - [x] Tela inicial que deve conter um resumo das funcionalidades do app;
     - [x] Tela de descrição do item;
     - [x] Tela de listagem de características;
 - [x] Todo o trabalho deve ser feito utilizando o GitFlow;
